@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Safe Gate</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="low_storage_error">low</string>
+    <string name="text_recogniser_error_message">error</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "864733705170",
+    "firebase_url": "https://safegate-e3b8a.firebaseio.com",
+    "project_id": "safegate-e3b8a",
+    "storage_bucket": "safegate-e3b8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864733705170:android:d234ab04719d9fa1",
+        "android_client_info": {
+          "package_name": "h.app.hackit.safegate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864733705170-idgo20qbsggtehb40kqu0e53c6b5is34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "h.app.hackit.safegate",
+            "certificate_hash": "e1b79312b749d932ae82db3c770c49be3623a647"
+          }
+        },
+        {
+          "client_id": "864733705170-v31r5iu1g580cabtinjf9gn72cue9fle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUCxObecfN51ticOy50Wn75C2vno6nAE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864733705170-v31r5iu1g580cabtinjf9gn72cue9fle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
